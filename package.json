@@ -49,7 +49,7 @@
     "internal-ip": "^4.3.0",
     "ip": "^1.1.5",
     "killable": "^1.0.1",
-    "loglevel": "^1.6.2",
+    "loglevel": "^1.6.3",
     "opn": "^5.5.0",
     "p-retry": "^3.0.1",
     "portfinder": "^1.0.20",
